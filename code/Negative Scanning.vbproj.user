@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\127.0.0.1\Negatives Scanning\Scanning Software\|\\127.0.0.1\Negatives Scanning\|\\19\ddd\Software\NMG Scanner\|\\127.0.0.1\ddd\Software\NMG Scanner\|\\127.0.0.1\NMG Project\NMG Tool\</PublishUrlHistory>
+    <InstallUrlHistory>\\192.168.1.1\Negatives Scanning\Scanning Software\|\\192.168.1.1\Scanning Software\|\\127.0.0.1\ddd\Software\NMG Scanner\|\\192.168.1.1\ddd\Software\NMG Scanner\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\192.168.1.1\Scanning Software\|\\192.168.1.1\ddd\Software\NMG Scanner\</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ShowAllFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

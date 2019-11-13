@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Negative_Scanning.frmLarge">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Negative_Scanning.frmLarge.PlayState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>frmLarge.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgQggAMgECBYAAAUQGCqMLwDgAEQYBRACEIAVgSEEAE=</HashCode>
+      <FileName>frmLarge.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negative_Scanning.frmNMGPrpt">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Negative_Scanning.frmNMGPrpt.DisplayInfoDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>frmNMGPrpt.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AACAAAAgECgAAAAAAICAAhhCAAAQIAA4ACAIAgAAEAA=</HashCode>
+      <FileName>frmNMGPrpt.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negative_Scanning.frmQA">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAMAAUCCwAAAAAACA0jgDAAAQ8BwIAGAoQARAAEA=</HashCode>
+      <FileName>frmQA.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negative_Scanning.frmSmall">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAKgkDAYCAAQAGCgABgDAAAQYBAFAUQAAgQEEAg=</HashCode>
+      <FileName>frmSmall.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negative_Scanning.MDIParent1">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hQA8DYlBwCACEDPAAmCECMoCwkADBUhAOCiBAwSIAH4=</HashCode>
+      <FileName>MDIParent1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

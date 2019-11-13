@@ -1,0 +1,411 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Negative Scanning
+</name>
+</assembly>
+<members>
+<member name="T:Negative_Scanning.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Negative_Scanning.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Negative_Scanning.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Negative_Scanning.NoNamespaceTest.frmHomeTest">
+ <summary>
+ Tests for the frm Home Class
+ Documentation: 
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.Cleanup">
+ <summary>
+ Code that is run after each test
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.ShowNewFormTest">
+ <summary>
+ Show New Form Method Test
+ Documentation   :  
+ Method Signature:  Sub ShowNewForm(ByVal sender As Object, ByVal e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.OpenFileTest">
+ <summary>
+ Open File Method Test
+ Documentation   :  
+ Method Signature:  Sub OpenFile(ByVal sender As Object, ByVal e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.SaveAsToolStripMenuItem_ClickTest">
+ <summary>
+ Save As Tool Strip Menu Item Click Method Test
+ Documentation   :  
+ Method Signature:  Sub SaveAsToolStripMenuItem_Click(ByVal sender As Object, ByVal e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.ExitToolsStripMenuItem_ClickTest">
+ <summary>
+ Exit Tools Strip Menu Item Click Method Test
+ Documentation   :  
+ Method Signature:  Sub ExitToolsStripMenuItem_Click(ByVal sender As Object, ByVal e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.CutToolStripMenuItem_ClickTest">
+ <summary>
+ Cut Tool Strip Menu Item Click Method Test
+ Documentation   :  
+ Method Signature:  Sub CutToolStripMenuItem_Click(ByVal sender As Object, ByVal e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.CopyToolStripMenuItem_ClickTest">
+ <summary>
+ Copy Tool Strip Menu Item Click Method Test
+ Documentation   :  
+ Method Signature:  Sub CopyToolStripMenuItem_Click(ByVal sender As Object, ByVal e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.PasteToolStripMenuItem_ClickTest">
+ <summary>
+ Paste Tool Strip Menu Item Click Method Test
+ Documentation   :  
+ Method Signature:  Sub PasteToolStripMenuItem_Click(ByVal sender As Object, ByVal e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.ToolBarToolStripMenuItem_ClickTest">
+ <summary>
+ Tool Bar Tool Strip Menu Item Click Method Test
+ Documentation   :  
+ Method Signature:  Sub ToolBarToolStripMenuItem_Click(ByVal sender As Object, ByVal e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.StatusBarToolStripMenuItem_ClickTest">
+ <summary>
+ Status Bar Tool Strip Menu Item Click Method Test
+ Documentation   :  
+ Method Signature:  Sub StatusBarToolStripMenuItem_Click(ByVal sender As Object, ByVal e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.CascadeToolStripMenuItem_ClickTest">
+ <summary>
+ Cascade Tool Strip Menu Item Click Method Test
+ Documentation   :  
+ Method Signature:  Sub CascadeToolStripMenuItem_Click(ByVal sender As Object, ByVal e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.TileVerticalToolStripMenuItem_ClickTest">
+ <summary>
+ Tile Vertical Tool Strip Menu Item Click Method Test
+ Documentation   :  
+ Method Signature:  Sub TileVerticalToolStripMenuItem_Click(ByVal sender As Object, ByVal e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.TileHorizontalToolStripMenuItem_ClickTest">
+ <summary>
+ Tile Horizontal Tool Strip Menu Item Click Method Test
+ Documentation   :  
+ Method Signature:  Sub TileHorizontalToolStripMenuItem_Click(ByVal sender As Object, ByVal e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.ArrangeIconsToolStripMenuItem_ClickTest">
+ <summary>
+ Arrange Icons Tool Strip Menu Item Click Method Test
+ Documentation   :  
+ Method Signature:  Sub ArrangeIconsToolStripMenuItem_Click(ByVal sender As Object, ByVal e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.CloseAllToolStripMenuItem_ClickTest">
+ <summary>
+ Close All Tool Strip Menu Item Click Method Test
+ Documentation   :  
+ Method Signature:  Sub CloseAllToolStripMenuItem_Click(ByVal sender As Object, ByVal e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.MDIParent1_LoadTest">
+ <summary>
+ MDisability Insurance Parent 1 Load Method Test
+ Documentation   :  
+ Method Signature:  Sub MDIParent1_Load(sender As System.Object, e As System.EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.QAToolStripMenuItem_ClickTest">
+ <summary>
+ Quality Assurance Tool Strip Menu Item Click Method Test
+ Documentation   :  
+ Method Signature:  Sub QAToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.ReportsToolStripMenuItem_ClickTest">
+ <summary>
+ Reports Tool Strip Menu Item Click Method Test
+ Documentation   :  
+ Method Signature:  Sub ReportsToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.SmallNegativesToolStripMenuItem_ClickTest">
+ <summary>
+ Small Negatives Tool Strip Menu Item Click Method Test
+ Documentation   :  
+ Method Signature:  Sub SmallNegativesToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmHomeTest.LargeNegativesToolStripMenuItem_ClickTest">
+ <summary>
+ Large Negatives Tool Strip Menu Item Click Method Test
+ Documentation   :  
+ Method Signature:  Sub LargeNegativesToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+ </summary>
+</member>
+<member name="T:Negative_Scanning.NoNamespaceTest.frmP_rptTest">
+ <summary>
+ Tests for the frm P rpt Class
+ Documentation: 
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmP_rptTest.Initialize">
+ <summary>
+ Code that is run before each test
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmP_rptTest.Cleanup">
+ <summary>
+ Code that is run after each test
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmP_rptTest.frmNMGPrpt_LoadTest">
+ <summary>
+ frm NameG Prpt Load Method Test
+ Documentation   :  
+ Method Signature:  Sub frmNMGPrpt_Load(ByVal sender As System.Object, ByVal e As System.EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmP_rptTest.RadioButton3_CheckedChangedTest">
+ <summary>
+ Radio Button 3 Checked Changed Method Test
+ Documentation   :  
+ Method Signature:  Sub RadioButton3_CheckedChanged(ByVal sender As Object, ByVal e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmP_rptTest.SelectRowsTest">
+ <summary>
+ Select Rows Method Test
+ Documentation   :  
+ Method Signature:  Function SelectRows(ByVal dataSet As DataSet, ByVal connection As String, ByVal query As String) As DataSet
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmP_rptTest.Form_FormClosingTest">
+ <summary>
+ Form Form Closing Method Test
+ Documentation   :  
+ Method Signature:  Sub Form_FormClosing(ByVal sender As Object, ByVal e As System.Windows.Forms.FormClosingEventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmP_rptTest.DisplayStatusTest">
+ <summary>
+ Display Status Method Test
+ Documentation   :  
+ Method Signature:  Sub DisplayStatus(ByVal Text As String)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmP_rptTest.DisplayResultsTest">
+ <summary>
+ Display Results Method Test
+ Documentation   :  
+ Method Signature:  Sub DisplayResults(ByVal Text As String)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmP_rptTest.DisplayInfoDelegateTest">
+ <summary>
+ Display Info Delegate Method Test
+ Documentation   :  
+ Method Signature:  Sub DisplayInfoDelegate(ByVal Text As String)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmP_rptTest.Button2_ClickTest">
+ <summary>
+ Button 2 Click Method Test
+ Documentation   :  
+ Method Signature:  Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+ </summary>
+</member>
+<member name="T:Negative_Scanning.NoNamespaceTest.frmQATest">
+ <summary>
+ Tests for the frm Quality Assurance Class
+ Documentation: 
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmQATest.Initialize">
+ <summary>
+ Code that is run before each test
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmQATest.Cleanup">
+ <summary>
+ Code that is run after each test
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmQATest.Form2_LoadTest">
+ <summary>
+ Form 2 Load Method Test
+ Documentation   :  
+ Method Signature:  Sub Form2_Load(sender As System.Object, e As System.EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmQATest.loadcboTest">
+ <summary>
+ loadcbo Method Test
+ Documentation   :  
+ Method Signature:  Sub loadcbo()
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmQATest.load_imgTest">
+ <summary>
+ load img Method Test
+ Documentation   :  
+ Method Signature:  Sub load_img()
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmQATest.searchTest">
+ <summary>
+ search Method Test
+ Documentation   :  
+ Method Signature:  Sub search()
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmQATest.DateTimePicker1_ValueChangedTest">
+ <summary>
+ Date Time Picker 1 Value Changed Method Test
+ Documentation   :  
+ Method Signature:  Sub DateTimePicker1_ValueChanged(sender As Object, e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmQATest.DateTimePicker2_ValueChangedTest">
+ <summary>
+ Date Time Picker 2 Value Changed Method Test
+ Documentation   :  
+ Method Signature:  Sub DateTimePicker2_ValueChanged(sender As Object, e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmQATest.Button1_ClickTest">
+ <summary>
+ Button 1 Click Method Test
+ Documentation   :  
+ Method Signature:  Sub Button1_Click(sender As Object, e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmQATest.Button2_ClickTest">
+ <summary>
+ Button 2 Click Method Test
+ Documentation   :  
+ Method Signature:  Sub Button2_Click(sender As Object, e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmQATest.Button3_ClickTest">
+ <summary>
+ Button 3 Click Method Test
+ Documentation   :  
+ Method Signature:  Sub Button3_Click(sender As Object, e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmQATest.Button4_ClickTest">
+ <summary>
+ Button 4 Click Method Test
+ Documentation   :  
+ Method Signature:  Sub Button4_Click(sender As Object, e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmQATest.Button5_ClickTest">
+ <summary>
+ Button 5 Click Method Test
+ Documentation   :  
+ Method Signature:  Sub Button5_Click(sender As Object, e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmQATest.DataGridView1_CellContentClickTest">
+ <summary>
+ Data Grid View 1 Cell Content Click Method Test
+ Documentation   :  
+ Method Signature:  Sub DataGridView1_CellContentClick(sender As Object, e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmQATest.DataGridView1_SelectionChangedTest">
+ <summary>
+ Data Grid View 1 Selection Changed Method Test
+ Documentation   :  
+ Method Signature:  Sub DataGridView1_SelectionChanged(sender As Object, e As EventArgs)
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmQATest.RotateImgTest">
+ <summary>
+ Rotate Img Method Test
+ Documentation   :  
+ Method Signature:  Sub RotateImg()
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmQATest.InvertImgTest">
+ <summary>
+ Invert Img Method Test
+ Documentation   :  
+ Method Signature:  Sub InvertImg()
+ </summary>
+</member>
+<member name="T:Negative_Scanning.NoNamespaceTest.frmScanTest">
+ <summary>
+ Tests for the frm Scan Class
+ Documentation: 
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmScanTest.Initialize">
+ <summary>
+ Code that is run before each test
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmScanTest.Cleanup">
+ <summary>
+ Code that is run after each test
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmScanTest.Select_SourceTest">
+ <summary>
+ Select Source Method Test
+ Documentation   :  
+ Method Signature:  Sub Select_Source()
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmScanTest.AcquireSave_ImageTest">
+ <summary>
+ Acquire Save Image Method Test
+ Documentation   :  
+ Method Signature:  Sub AcquireSave_Image()
+ </summary>
+</member>
+<member name="M:Negative_Scanning.NoNamespaceTest.frmScanTest.Save_ImageTest">
+ <summary>
+ Save Image Method Test
+ Documentation   :  
+ Method Signature:  Sub Save_Image()
+ </summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,184 @@
+E:\cd\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe.manifest
+E:\cd\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.application
+E:\cd\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe
+E:\cd\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.pdb
+E:\cd\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.xml
+E:\cd\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\DynamicDotNetTWAIN.dll
+E:\cd\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\Dynamsoft.BarcodeReader.dll
+E:\cd\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\DynamicDotNetTWAIN.xml
+E:\cd\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\Dynamsoft.BarcodeReader.xml
+E:\cd\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Form1.resources
+E:\cd\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Resources.resources
+E:\cd\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.vbproj.GenerateResource.Cache
+E:\cd\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.exe.manifest
+E:\cd\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.application
+E:\cd\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.exe
+E:\cd\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.xml
+E:\cd\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.pdb
+E:\cd\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.vbprojResolveAssemblyReference.cache
+C:\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.exe
+C:\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.xml
+C:\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.pdb
+H:\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe.config
+H:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.exe
+H:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.xml
+H:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.pdb
+H:\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe.manifest
+H:\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.application
+H:\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe
+H:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.vbprojResolveAssemblyReference.cache
+H:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Form1.resources
+H:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Form2.resources
+H:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Form3.resources
+H:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.MDIParent1.resources
+H:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Resources.resources
+H:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.vbproj.GenerateResource.Cache
+H:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.exe.manifest
+H:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.application
+E:\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe.config
+E:\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe.manifest
+E:\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.application
+E:\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe
+E:\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.pdb
+E:\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.xml
+E:\NMG code\NMG Negative Scanning\bin\Debug\DynamicDotNetTWAIN.dll
+E:\NMG code\NMG Negative Scanning\bin\Debug\Dynamsoft.BarcodeReader.dll
+E:\NMG code\NMG Negative Scanning\bin\Debug\Saraff.Tiff.dll
+E:\NMG code\NMG Negative Scanning\bin\Debug\Saraff.Twain.dll
+E:\NMG code\NMG Negative Scanning\bin\Debug\DynamicDotNetTWAIN.xml
+E:\NMG code\NMG Negative Scanning\bin\Debug\Dynamsoft.BarcodeReader.xml
+E:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Form1.resources
+E:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Form2.resources
+E:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Form3.resources
+E:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.frmSaraffTwain.resources
+E:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.MDIParent1.resources
+E:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Resources.resources
+E:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.vbproj.GenerateResource.Cache
+E:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.exe.manifest
+E:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.application
+E:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.exe
+E:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.xml
+E:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.pdb
+E:\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.vbprojResolveAssemblyReference.cache
+E:\cd\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe.config
+E:\cd\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.exe
+E:\cd\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.xml
+E:\cd\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.pdb
+E:\cd\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe.manifest
+E:\cd\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.application
+E:\cd\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe
+E:\cd\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.pdb
+E:\cd\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.xml
+E:\cd\NMG code\NMG Negative Scanning\bin\Debug\DynamicDotNetTWAIN.dll
+E:\cd\NMG code\NMG Negative Scanning\bin\Debug\Saraff.Twain.dll
+E:\cd\NMG code\NMG Negative Scanning\bin\Debug\DynamicDotNetTWAIN.xml
+E:\cd\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Form1.resources
+E:\cd\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Form2.resources
+E:\cd\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Form3.resources
+E:\cd\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.frmSaraffTwain.resources
+E:\cd\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.MDIParent1.resources
+E:\cd\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Resources.resources
+E:\cd\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.vbproj.GenerateResource.Cache
+E:\cd\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.exe.manifest
+E:\cd\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.application
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe.config
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe.manifest
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.application
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.pdb
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.xml
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\mysql.data.dll
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\Saraff.Twain.dll
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Form1.resources
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Form2.resources
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Form3.resources
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.frmNMGPrpt.resources
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.frmSaraffTwain.resources
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.MDIParent1.resources
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Resources.resources
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.vbproj.GenerateResource.Cache
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.exe.manifest
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.application
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.exe
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.xml
+C:\Users\Ken\Documents\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.pdb
+E:\cd\NMG code\NMG Negative Scanning\bin\Debug\DirectShowLib-2005.dll
+E:\cd\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.vbprojResolveAssemblyReference.cache
+E:\cd\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.frmNMGPrpt.resources
+E:\cd\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.frmWebCamScan.resources
+C:\NMG Project\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe.config
+C:\NMG Project\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe.manifest
+C:\NMG Project\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.application
+C:\NMG Project\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe
+C:\NMG Project\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.pdb
+C:\NMG Project\NMG code\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.xml
+C:\NMG Project\NMG code\NMG Negative Scanning\bin\Debug\DirectShowLib-2005.dll
+C:\NMG Project\NMG code\NMG Negative Scanning\bin\Debug\mysql.data.dll
+C:\NMG Project\NMG code\NMG Negative Scanning\bin\Debug\Saraff.Twain.dll
+C:\NMG Project\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Form1.resources
+C:\NMG Project\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Form2.resources
+C:\NMG Project\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Form3.resources
+C:\NMG Project\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.frmNMGPrpt.resources
+C:\NMG Project\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.frmSaraffTwain.resources
+C:\NMG Project\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.frmWebCamScan.resources
+C:\NMG Project\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.MDIParent1.resources
+C:\NMG Project\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Resources.resources
+C:\NMG Project\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.vbproj.GenerateResource.Cache
+C:\NMG Project\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.TrustInfo.xml
+C:\NMG Project\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.exe.manifest
+C:\NMG Project\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.application
+C:\NMG Project\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.exe
+C:\NMG Project\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.xml
+C:\NMG Project\NMG code\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.pdb
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe.config
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe.manifest
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.application
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.pdb
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.xml
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\mysql.data.dll
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\bin\Debug\mysql.data.xml
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Form1.resources
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.frmSmall.resources
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.frmQA.resources
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.frmNMGPrpt.resources
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.frmLarge.resources
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.MDIParent1.resources
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Resources.resources
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.vbproj.GenerateResource.cache
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.vbproj.CoreCompileInputs.cache
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.TrustInfo.xml
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.exe.manifest
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.application
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.vbproj.CopyComplete
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.exe
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.xml
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.pdb
+E:\DEV\NMG Negative Scanning\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.vbprojAssemblyReference.cache
+E:\DEV\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe.config
+E:\DEV\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe.manifest
+E:\DEV\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.application
+E:\DEV\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe
+E:\DEV\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.pdb
+E:\DEV\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.xml
+E:\DEV\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe.CodeAnalysisLog.xml
+E:\DEV\NMG Negative Scanning\bin\Debug\NMG Negative Scanning.exe.lastcodeanalysissucceeded
+E:\DEV\NMG Negative Scanning\bin\Debug\mysql.data.dll
+E:\DEV\NMG Negative Scanning\bin\Debug\mysql.data.xml
+E:\DEV\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.vbprojAssemblyReference.cache
+E:\DEV\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Form1.resources
+E:\DEV\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.frmSmall.resources
+E:\DEV\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.frmQA.resources
+E:\DEV\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.frmNMGPrpt.resources
+E:\DEV\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.frmLarge.resources
+E:\DEV\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.MDIParent1.resources
+E:\DEV\NMG Negative Scanning\obj\x86\Debug\NMG_Negative_Scanning.Resources.resources
+E:\DEV\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.vbproj.GenerateResource.cache
+E:\DEV\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.vbproj.CoreCompileInputs.cache
+E:\DEV\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.TrustInfo.xml
+E:\DEV\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.exe.manifest
+E:\DEV\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.application
+E:\DEV\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.vbproj.CopyComplete
+E:\DEV\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.exe
+E:\DEV\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.xml
+E:\DEV\NMG Negative Scanning\obj\x86\Debug\NMG Negative Scanning.pdb
